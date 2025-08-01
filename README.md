@@ -9,7 +9,7 @@
 <p style="display: flex; gap: 55px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="100" height="120"/>
   <img src="https://shiftasia.com/community/content/images/size/w1000/2023/01/1200px-Flask_logo.svg.png" alt="Flask" width="100" height="120"/>
-  <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Transformers" width="100" height="120"/>
+  <img src="https://huggingface.co/blog/assets/59_transformers_philosophy/transformers.png" alt="Transformers" width="100" height="120"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" alt="Torch" width="100" height="120"/>
 </p>
 
