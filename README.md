@@ -1,8 +1,7 @@
-# Vision-Based Image Question Answering System:
+<img width="1538" height="1238" alt="image" src="https://github.com/user-attachments/assets/24148b67-5aeb-4b81-b8bb-67206bdc7e84" /># Vision-Based Image Question Answering System:
  This project enables users to upload an image and receive  answers to visual questions based on the content of the image. It utilizes  transformer models to interpret image features and generate context-aware responses. The system bridges computer vision and natural language processing by integrating deep learning techniques for image embedding and question understanding, facilitating accurate and relevant image-based Q&A interaction.
 
- <img width="1003" height="714" alt="image" src="https://github.com/user-attachments/assets/79c3771a-e619-4491-af72-11b5131babcc" />
-
+<img width="1538" height="1238" alt="image" src="https://github.com/user-attachments/assets/86ba3247-643b-4b53-9cb6-3ac68d70e594" />
 
 # Tools
 
